@@ -97,7 +97,8 @@ Overall grasp success dropped to ~50% despite each uncertainty appearing tolerab
 - Small gripper miscalibration produces **disproportionate reliability loss**
 - Velocity and acceleration uncertainty are **largely absorbed in isolation**
 - Multiple minor uncertainties **compound into major system-level failure**
-
+  
+Complete Presentation can be found here: https://docs.google.com/presentation/d/1kSVH0p08aBkIDN0p_-_fTCtlNXhWYO4s/edit?usp=sharing&ouid=100180470077950532514&rtpof=true&sd=true
 ---
 
 ## Practical Design Guidance
