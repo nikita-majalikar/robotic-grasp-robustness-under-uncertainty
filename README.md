@@ -52,7 +52,7 @@ Uncertainty was modeled using probabilistic distributions and evaluated over
 Small perception errors cause a rapid drop in grasp success.
 
 <!-- ADD IMAGE HERE -->
-![Object Position Uncertainty](images/object_position_uncertainity.png)
+![Object Position Uncertainty](Images/object_position_uncertainity.png)
 
 **Insight:**  
 Perception error dominates failure more than motion noise.
@@ -63,7 +63,7 @@ Perception error dominates failure more than motion noise.
 Minor miscalibration leads to significant reliability loss.
 
 <!-- ADD IMAGE HERE -->
-![Gripper Width Uncertainty](images/gripper_width_uncertainty.png)
+![Gripper Width Uncertainty](Images/gripper_width_uncertainty.png)
 
 **Insight:**  
 Gripper calibration accuracy is more critical than aggressive motion tuning.
@@ -74,7 +74,7 @@ Gripper calibration accuracy is more critical than aggressive motion tuning.
 Isolated motion uncertainty is largely absorbed by modern controllers.
 
 <!-- ADD IMAGE HERE -->
-![Motion Uncertainty](images/motion_parameters_uncertainty.png)
+![Motion Uncertainty](Images/motion_parameters_uncertainty.png)
 
 **Insight:**  
 Velocity and acceleration noise have minimal isolated impact on grasp success.
@@ -85,7 +85,7 @@ Velocity and acceleration noise have minimal isolated impact on grasp success.
 Multiple small uncertainties drastically reduce system-level reliability.
 
 <!-- ADD IMAGE HERE -->
-![Combined Uncertainty](images/combined_uncertainty.png)
+![Combined Uncertainty](Images/combined_uncertainty.png)
 
 **Result:**  
 Overall grasp success dropped to ~50% despite each uncertainty appearing tolerable alone.
