@@ -1,5 +1,5 @@
 ## What this is
-This repository summarizes and reproduces key findings from my MSc thesis on
+This repository summarises and reproduces key findings from my MSc thesis on
 robotic grasp reliability under uncertainty (simulation + real hardware).
 
 ## The problem
